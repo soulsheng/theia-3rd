@@ -1,0 +1,9 @@
+
+1 bin
+
+1) boost
+https://sourceforge.net/projects/boost/files/boost-binaries/1.60.0/
+2) glew / gtest / ilmbase / jasper / jpeg / libpng / openexr / openjpeg / tbb / tiff / zlib 
+http://www.openimageio.org/external.zip
+
+2 code
